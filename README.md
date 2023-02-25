@@ -1,6 +1,6 @@
 # Building and Improving Convolutional Neural Networks (CNNs) for Image Classification
 
-This repository contains code for a simple convolutional neural network (CNN) implemented in Keras to classify the MNIST dataset. The code also includes an example of how to load a saved model and use it to make predictions on new data.
+This repository is about building a convolutional neural network (CNN) implemented in Keras to classify the MNIST dataset. The code also includes an example of how to load a saved model and use it to make predictions on new data.
 
 
 ## The implementation involves the following steps:
