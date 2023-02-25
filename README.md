@@ -5,7 +5,7 @@ This repository is about building a convolutional neural network (CNN) implement
 
 ## The implementation involves the following steps:
 
-* Importing the required libraries, including Keras and NumPy.
+* Importing the required libraries, including Keras.
 * Loading and preprocessing the data, including splitting the dataset into training and testing sets, normalizing the pixel values, and converting the class labels to binary class matrices.
 * Creating the model, which consists of a sequence of layers, including two convolutional layers, a max-pooling layer, a flatten layer, a fully connected layer, and an output layer.
 * Compiling the model, which involves specifying the loss function, optimizer, and metrics to use during training.
