@@ -16,7 +16,7 @@ This repository is about building a convolutional neural network (CNN) implement
 
 
 ## Model Architecture
-The model architecture consists of two convolutional layers with ReLU activation functions, followed by a max pooling layer, a flatten layer, and two fully connected layers with ReLU and softmax activation functions, respectively. The model was trained for 12 epochs using the Adadelta optimizer and achieved an accuracy of 98.72% on the test set.
+The model architecture consists of two convolutional layers with ReLU activation functions, followed by a max pooling layer, a flatten layer, and two fully connected layers with ReLU and softmax activation functions, respectively. The model was trained for 12 epochs using the Adadelta optimizer and achieved an accuracy of 88.16% on the test set.
 
 ![Repre](https://raw.githubusercontent.com/MariemAmmar/Implementing_deepNets-convNets_for_Image_Classification/main/Neural%20Network%20Representation.png)
 ## Improving the Model
